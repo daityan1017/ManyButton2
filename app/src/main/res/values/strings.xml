@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ManyButton2</string>
+    <string name="button1">b1</string>
+    <string name="button2">b2</string>
+    <string name="button3">b3</string>
+    <string name="b1">ボタン１が押されました</string>
+    <string name="b2">ボタン2が押されました</string>
+    <string name="b3">ボタン3が押されました</string>
+</resources>
